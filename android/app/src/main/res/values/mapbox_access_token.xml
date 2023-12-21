@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="sk.eyJ1IjoiZHV5dHJ1b25nMjMiLCJhIjoiY2xxMzZoendmMDhrMjJqcDh0NWZscnh3eCJ9.bmv55PkVcpdicBjwYNLZcw">
+    <string name="mapbox_access_token" translatable="false" tools:ignore="UnusedResources">ADD_MAPBOX_ACCESS_TOKEN_HERE</string>
+</resources>
